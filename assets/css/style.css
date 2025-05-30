@@ -1,0 +1,191 @@
+/* generics */
+*{
+    box-sizing:border-box;  
+    text-align:center;
+    
+}
+body{
+    color:#393d41;
+    width:400px;
+ font-family:'Open sans', "sans serif";
+ line-height:1.65em;
+}
+
+/* header */
+header{
+    background-color:black;
+}
+#logo-header{
+    width: 50%;
+    padding: 1.5em;
+}
+
+/* main */
+main{
+    font-size:1.2rem;
+}
+/* div banner */
+.banner{
+    background-image:url(../img/banner.jpg);
+    height:20em;
+    background-position: center;
+    background-size: cover;
+
+}
+h1{
+    font-family:'Montserrat', 'sans serif';
+    font-size: 2.5em;
+    font-weight: bold;
+    color: #25a2c3;
+    padding: 45px 30px 15px;
+    line-height:1em;
+
+}
+.banner p{
+    font-size: 19px;
+    padding: 0.6em 2.8em;
+    line-height: 1.5;
+}
+.banner button{
+    margin-top:20px;
+        color: white;
+    padding: 0.5em 1.2em;
+    background-color: #f04c2f;
+    font-family: 'Montserrat';
+    text-transform: uppercase;
+    border: none;
+    border-radius: 4px;
+    font-weight: 600;
+}
+/* div centrale */
+.div-centrale{
+    margin-bottom:3em;
+    
+}
+.div-centrale p{
+    margin:10px;
+}
+
+h3{
+    font-family:'Montserrat', 'sans serif';
+    color:#25a2c3;
+    font-weight:600;
+    margin-top:2em;
+
+}
+
+#foto-centrale{
+    width: 50%;
+    margin-top: 20px;
+    border-radius: 20em;
+}
+/* div rosso */
+.div-rosso{
+    margin-top:3em;
+    background-color:#ed2407;
+    color:white;
+    text-align:center;
+    padding:2em;
+}
+#epicode-garantisce{
+    font-family:'Open sans', 'sans serif';
+    font-size:1.6em;
+    font-weight: 600;
+    margin-bottom:20px;
+}
+.quote{
+    font-size: 15px;
+    font-style: italic;
+    font-weight: 100;
+}
+span{
+    text-transform:uppercase;
+}
+
+cite{
+    display:block;
+    margin-top:20px;
+    font-weight:100;
+}
+.ceo-epicode{
+    font-size: 10px;
+    font-weight: 100;
+}
+
+/* aside */
+aside{
+    margin-bottom:3em;
+}
+aside div{
+    padding-bottom:1em;
+   font-size: 0.9em;
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2.1em;
+    border-bottom-right-radius: 6px;
+    border-bottom: solid 1px #dee1e3;
+    border-bottom-left-radius: 6px;
+    border-left: solid 1px #DEE1E3;
+    border-right: solid 1px #dee1e3;
+}
+
+.card{
+    
+    width:100%;
+}
+.titolo-card{
+    color:#25a2c3;
+    font-weight:600;
+}
+.paragrafo-card{
+    margin-bottom:20px;
+    font-size:16px;
+}
+
+/* footer */
+footer{
+    background-color:#25a2c3;
+    color:white;
+    margin-top:3em;
+}
+.contattaci{
+    
+    padding-top:1.5em;
+margin-bottom:20px;
+font-size:20px;
+font-weight:700;
+}
+nav a{
+    color:white;
+    margin-top:2em;
+    margin-bottom:20px;
+    font-size: 12px;
+    font-weight: 100;
+}
+hr{
+    margin-top:20px;
+    margin-bottom:20px;
+    width:50%;
+    margin-left:auto;
+    margin-right:auto;
+    border:solid 1px rgb(235, 231, 231);
+}
+.author{
+   font-size: 10px;
+    font-weight: 100;
+    line-height:4em;
+    padding-bottom:3.7em;
+}
+author a{
+    color:white;
+}
+#link-mappe{
+    text-decoration:none;
+}
+i{
+    margin-right:2px;
+    font-size:12px;
+
+    
+}
