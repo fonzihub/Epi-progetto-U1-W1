@@ -68,15 +68,15 @@ h1{
     margin-bottom:3em;
     
 }
-.div-centrale p{
-    margin:10px;
+.terzop{
+    margin:0 10px;
 }
 
 h3{
     font-family:'Montserrat', 'sans serif';
     color:#25a2c3;
     font-weight:600;
-    margin-top:2em;
+    margin:2em 0 10px;
 
 }
 
@@ -94,13 +94,13 @@ h3{
     padding:2em;
 }
 #epicode-garantisce{
-    font-family:'Open sans', 'sans serif';
-    font-size:1.6em;
-    font-weight: 600;
-    margin-bottom:20px;
+    font-family: 'Open sans', 'sans serif';
+    font-size: 1.7em;
+    font-weight: bold;
+    margin-bottom: 20px;
 }
 .quote{
-    font-size: 15px;
+    font-size: 17px;
     font-style: italic;
     font-weight: 100;
 }
